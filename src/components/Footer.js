@@ -33,7 +33,7 @@ const Footer = () => {
             <a href="#"><FaFacebook size={30} style={{color: "white", marginRight: "1rem"}} /></a>
             <a href="#"><FaInstagram size={30} style={{color: "white", marginRight: "1rem"}} /></a>
             <a href="https://github.com/SureshhhN?tab=repositories" target="_blank"><FaGithub size={30} style={{color: "white", marginRight: "1rem"}}/></a>
-            <a href="https://drive.google.com/file/d/1nqAA2DaoV9OPc_4EQpLQMcc0VXec1BY-/view" target= "_blank"><FaArrowCircleDown size={30} style={{color: "white", marginRight: "1rem"}} /></a>
+            <a href="https://drive.google.com/file/d/1TnYNUkxc2ee-HIwImzElGk8OJiNMZ5OB/view?usp=sharing" target= "_blank"><FaArrowCircleDown size={30} style={{color: "white", marginRight: "1rem"}} /></a>
 
           </div>
           

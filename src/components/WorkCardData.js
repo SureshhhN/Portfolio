@@ -1,7 +1,8 @@
 import pro1 from "../assets/project1.PNG";
-import pro2 from "../assets/project2.PNG";
-import pro3 from "../assets/project3.PNG";
-import pro4 from "../assets/project4.PNG";
+import pro2 from "../assets/project2.gif";
+import pro3 from "../assets/project3.gif";
+import pro4 from "../assets/project4.gif";
+import pro5 from "../assets/project5.gif";
 
 
 const ProjectCardData = [
@@ -31,10 +32,18 @@ const ProjectCardData = [
 
     {
         imgsrc: pro4,
-        title: "Admin Dashboard",
+        title: "Contact-Manager-App",
         text: "The Administrator Dashboard provides State administrators and report viewers a unified view of the organization's content creation and consumption patterns.",
-        view: "https://extraordinary-mooncake-fe3218.netlify.app/",
-        source: "https://github.com/SureshhhN/Admin-Dashboard"
+        view: "https://wonderful-salamander-bfad16.netlify.app/",
+        source: "https://github.com/SureshhhN/Contact-manager-app"
+    },
+
+    {
+        imgsrc: pro5,
+        title: "Food App-UI",
+        text: "The Administrator Dashboard provides State administrators and report viewers a unified view of the organization's content creation and consumption patterns.",
+        view: "https://jazzy-dieffenbachia-a3a329.netlify.app/",
+        source: "https://github.com/SureshhhN/Deliciouss-FoodApp-UI"
     },
 ];
 
