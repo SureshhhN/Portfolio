@@ -1,20 +1,20 @@
 import React from 'react'
 import Navbar from "../components/Navbar";
-import Frontpage from "../components/Frontpage";
+
 import Skill from '../components/Skill';
-import Work from "../components/Work";
+import Projectpage from '../components/Projectpage';
+
 import Footer from "../components/Footer";
 
 
 
-const Home = () => {
+const Skills = () => {
   return <div>
     <Navbar/>
-    <Frontpage/>
+    <Projectpage heading= "SKILLS" text="The Technical Skills I Have..."/>
     <Skill/>
-    <Work/>
     <Footer/>
   </div>;
 };
 
-export default Home
+export default Skills
