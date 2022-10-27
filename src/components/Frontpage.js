@@ -18,7 +18,7 @@ const Frontpage = () => {
         
         <p>HI, I'M SURESH...
           <a href="https://github.com/SureshhhN?tab=repositories" target="_blank"><FaGithub size={30} style={{color: "yellow", marginRight: "0.5rem"}}/></a>
-          <a href="https://drive.google.com/file/d/1TnYNUkxc2ee-HIwImzElGk8OJiNMZ5OB/view?usp=sharing" target= "_blank"><FaArrowCircleDown size={30} style={{color: "yellow", marginRight: "1rem"}} /></a>
+          <a href="https://drive.google.com/file/d/19VwNAmwEAcF50D-3UroA1CQmPTkmTXu-/view?usp=sharing" target= "_blank"><FaArrowCircleDown size={30} style={{color: "yellow", marginRight: "1rem"}} /></a>
 
         </p> 
       
