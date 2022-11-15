@@ -16,17 +16,17 @@ const ProjectCardData = [
 
     {
         imgsrc: pro2,
-        title: "Equip-Rental Website",
+        title: "User Management System",
         text: "Tech used: React, MongoDB, Node, Express.",
-        view: "https://cozy-raindrop-52ac8b.netlify.app/",
-        source:"https://github.com/SureshhhN/equip-rental-frontend"
+        view: "https://velvety-choux-8943f1.netlify.app/",
+        source:"https://github.com/SureshhhN/UMS"
     },
 
     {
         imgsrc: pro3,
         title: "Project Management Tool",
         text: "Tech used: React, MongoDB, Node, Express.",
-        view: "https://meek-bavarois-40ea02.netlify.app/",
+        view: "https://stellular-gnome-92e3c8.netlify.app/",
         source:"https://github.com/SureshhhN/Capstone-PMT-FrontEnd"
     },
 

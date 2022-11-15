@@ -2,7 +2,7 @@ import "./Navbar.css"
 
 import React, {useState} from 'react'
 import { Link } from "react-router-dom"
-import {FaBars, FaTimes} from "react-icons/fa"
+import {FaBars, FaTimes, FaArrowCircleDown} from "react-icons/fa"
 
 const Navbar = () => {
     const [click, setclick] = useState(false);
@@ -24,8 +24,9 @@ const Navbar = () => {
   return (
     <div className= {color ? "header header-bg" : "header" }>
         <Link to="/">
-            <h1>SURESH N</h1> 
+            <h1>SURESH N </h1> 
          </Link>
+
          <ul className= {click ?  "nav-menu active" : "nav-menu"}>
             <li>
                 <Link to="/" >Home</Link>
